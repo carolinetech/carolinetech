@@ -1,7 +1,5 @@
 Seja bem vindo(a) ao meu GitHub! 😊
-
-
-Eu sou Carol, tenho 28 anos! Sou psicóloga, Tech Recruite, mãe da Sasha e nas horas vagas aprendiz de crossfit. 
+Eu sou Carol, tenho 28 anos! Sou psicóloga, Tech Recruite, mãe da Sasha e nas horas vagas aprendiz de crossfi
 
  Possuo experiência em Recrutamento e Seleção desde 2013, onde tive a oportunidade de atuar em consultorias e empresas privadas. No final de 2020 migrei minha carreira no RH para o mundo Tech no qual me encanto a cada dia. 
 
